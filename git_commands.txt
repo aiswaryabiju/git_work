@@ -1,1 +1,4 @@
 git init - initialise git
+git status - listing untracked files
+git add -A - adding all untracked files to the staging area
+git commit -m "message" - for adding to local repository
